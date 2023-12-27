@@ -1,6 +1,69 @@
 {
   "type": "FeatureCollection",
   "features": [
+"features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "二風谷アットゥシ",
+        "ID": "1",
+        "地方": "北海道",
+        "都道府県": "北海道",
+        "種類": "織物",
+        "概要": "沙流川流域に古くから伝わり江戸時代には物産として他地域との取引に使われた織物。百年以上前とほぼ同じ形の道具で作られる。",
+        "アドレス": "北海道沙流郡平取町二風谷77-14",
+        "郵便番号": "〒055-0101",
+        "備考(URL)": "https://kougeihin.jp/craft/0101/",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.178391,
+          42.635429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "二風谷イタ",
+        "ID": "2",
+        "地方": "北海道",
+        "都道府県": "北海道",
+        "種類": "木工品・竹工品",
+        "概要": "百年以上前から沙流川流域に住むアイヌの人々によって受け継がれたお盆。19世紀半ばに半月盆や丸盆が献上された記録。",
+        "アドレス": "北海道沙流郡平取町二風谷77-15",
+        "郵便番号": "〒055-0102",
+        "備考(URL)": "https://kougeihin.jp/craft/0601/",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.178391,
+          42.635429
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
