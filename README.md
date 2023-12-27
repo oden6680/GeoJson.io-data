@@ -3,6 +3,8 @@
 
 [ここ]([https://codesandbox.io/p/sandbox/lucid-brook-l6j4r2?file=%2Fsrc%2Findex.mjs%3A5339%2C1](https://codepen.io/dxrqulmu-the-typescripter/pen/bGZddOw)https://codepen.io/dxrqulmu-the-typescripter/pen/bGZddOw)からGitHub上に上げたGeoJsonのURLをエンコードして共有用URLを生成できる。
 
+GitHub上のデータさえ更新すれば、ファイルの名前が変わってなければ今まで使っていたshareURLに更新されたデータが反映されるようになっている。
+
 # 使い方
 
 1. Mapに適用したいGeoJsonファイルをGitHubにアップロードする
